@@ -14,6 +14,10 @@ Durante uma busca por emprego, é fácil perder de vista para quais vagas já se
 
 ![Painel do JobTrack com busca, filtros e candidaturas organizadas por status](src/assets/screenshots/Home.png)
 
+### Criação de candidatura
+
+![Formulário de criação de uma candidatura no JobTrack](src/assets/screenshots/create-card.png)
+
 ### Login
 
 ![Tela de login do JobTrack](src/assets/screenshots/login.png)
